@@ -32,7 +32,8 @@ Escreva um programa para no arquivo 'validacao.js' verificar se os dados informa
 
 >Cartão de Crédito válido ou Cartão de crédito vencido
 
-## Dicas:
+## Links Úteis:
+* [HTML Input Types](http://www.w3schools.com/html/html_form_input_types.asp)
 * [innerHTML](http://www.w3schools.com/jsref/prop_html_innerhtml.asp)
 * [value](http://www.w3schools.com/jsref/prop_text_value.asp)
 * [Condicional IF](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/if...else)
