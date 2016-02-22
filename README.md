@@ -15,9 +15,13 @@ Verificar se os dados informados no formulário estão de acordo com as regras d
 **Output**
 >Desafio 1:
 
->Validado: Nome Completo, Cartão de Crédito
+>Nome Completo (válido|inválido)
 
->Não Validado: Telefone, CPF
+>Cartão de Crédito (válido|inválido)
+
+>Telefone (válido|inválido)
+
+>CPF (válido|inválido)
 
 
 ## Desafio 2
