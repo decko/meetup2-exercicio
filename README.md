@@ -1,6 +1,6 @@
 # FCC Brasília - 2º Meetup - Fácil
 
-Escreva um programa para no arquivo 'validacao.js' verificar se os dados informados no formulário presente no arquivo 'index.html' estão de acordo com as regras de validação abaixo:
+Escreva um programa para no arquivo 'validacao.js' verificar se os dados informados no formulário presente no arquivo 'index.html' estão de acordo com as regras de validação abaixo.
 
 ## Regras de Validação
 
@@ -10,16 +10,30 @@ Escreva um programa para no arquivo 'validacao.js' verificar se os dados informa
 
 **3. Cartão de Crédito**: tem que ter 16 números
 
-## Tarefas Extras
-**Nome Completo**: cada parte do nome deve ter somente a primeira letra maiúscula
+####Alert Output:
 
-**Telefone**: remover, se exisir:
+>Validado: Nome Completo, Cartão de Crédito
+
+>Não Validado: Telefone
+
+
+## Tarefa Extra
+**- Nome Completo**: cada parte do nome deve ter somente a primeira letra maiúscula
+
+**- Telefone**: remover, se exisir:
   * espaço em branco
   * ( ou )
   * -
   
-**Cartão de Crédito**: verificar se a data de validade do cartão ainda está vigente
+**- Cartão de Crédito**: verificar se a data de validade do cartão ainda está vigente
 
+####Alert Output:
+
+>Nome Completo: João Pereira
+
+>Telefone: 99999999
+
+>Cartão de Crédito válido ou Cartão de crédito vencido
 
 ## Dicas:
 * [innerHTML](http://www.w3schools.com/jsref/prop_html_innerhtml.asp)
@@ -30,5 +44,6 @@ Escreva um programa para no arquivo 'validacao.js' verificar se os dados informa
 * [Expressões Regulares 2](http://eloquentjavascript.net/09_regexp.html)
 * [toUpperCase()](http://www.w3schools.com/jsref/jsref_touppercase.asp)
 * [Dates](http://www.w3schools.com/js/js_dates.asp)
+* [Alert](http://www.w3schools.com/jsref/met_win_alert.asp)
 
 
