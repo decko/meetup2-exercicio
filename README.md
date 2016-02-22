@@ -1,8 +1,11 @@
 # FCC Brasília - 2º Meetup - Fácil
 
-Escreva um programa para no arquivo 'validacao.js' verificar se os dados informados no formulário presente no arquivo 'index.html' estão de acordo com as regras de validação abaixo.
+Utilize os arquivos 'index.html' e/ou 'validacao.js' para resolver os desafios propostos.
+Comente seu código.
 
-## Regras de Validação
+## Desafio 1
+
+Verificar se os dados informados no formulário estão de acordo com as regras de validação abaixo.
 
 **1. Nome Completo**: deve ser composto por pelo menos duas palavras
   
@@ -10,27 +13,39 @@ Escreva um programa para no arquivo 'validacao.js' verificar se os dados informa
 
 **3. Cartão de Crédito**: tem que ter 16 números
 
-####Alert Output:
+**Output**
+>Desafio 1:
 
 >Validado: Nome Completo, Cartão de Crédito
 
 >Não Validado: Telefone
 
 
-## Tarefa Extra
-**- Nome Completo**: formatar para que cada parte do nome tenha somente a primeira letra maiúscula
+## Desafio 2
+- Formatar para que cada parte do **nome completo** tenha somente a primeira letra maiúscula
+- Formatar o **telefone** para o padrão (61) 0000-0000
+- Formatar o **cartão de crédito** para o padrão 0000-0000-0000-0000
 
-**- Telefone**: formatar para: (61) 0000-0000
-  
-**- Cartão de Crédito**: verificar se a data de validade do cartão ainda está vigente
-
-####Alert Output:
+**Output**:
+>Desafio 2:
 
 >Nome Completo: João Pereira
 
 >Telefone: 9999-9999
 
->Cartão de Crédito válido ou Cartão de crédito vencido
+>Cartão de Crédito: 0000-0000-0000-0000
+
+## Desafio 3
+- Validar se o **email** informado está em um padrão válido
+- Verificar se o **cartão de crédito** ainda é válido ou se já está vencido
+
+**Output**:
+>Desafio 3:
+
+>Email (válido|inválido)
+
+>Cartão de Crédito (válido|vencido)
+
 
 ## Links Úteis:
 * [HTML Input Types](http://www.w3schools.com/html/html_form_input_types.asp)
