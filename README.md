@@ -38,6 +38,7 @@ Verificar se os dados informados no formulário estão de acordo com as regras d
 ## Desafio 3
 - Validar se o **email** informado está em um padrão válido
 - Verificar se o **cartão de crédito** ainda é válido ou se já está vencido
+- Verificar se o **CPF** é válido
 
 **Output**:
 >Desafio 3:
@@ -45,6 +46,8 @@ Verificar se os dados informados no formulário estão de acordo com as regras d
 >Email (válido|inválido)
 
 >Cartão de Crédito (válido|vencido)
+
+>CPF (válido|inválido)
 
 
 ## Links Úteis:
