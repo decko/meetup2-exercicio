@@ -1,4 +1,4 @@
-# FCC Brasília - 2º Meetup - Fácil
+# FCC Brasília - 2º Meetup - Exercício
 
 Utilize os arquivos 'index.html' e/ou 'validacao.js' para resolver os desafios propostos.
 Comente seu código.
