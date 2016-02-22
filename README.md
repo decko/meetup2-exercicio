@@ -7,24 +7,24 @@ Comente seu código.
 
 Verificar se os dados informados no formulário estão de acordo com as regras de validação abaixo.
 
-**1. Nome Completo**: deve ser composto por pelo menos duas palavras
-  
-**2. Telefone**: tem que ter no mínimo 8 números e no máximo 10 números
-
-**3. Cartão de Crédito**: tem que ter 16 números
+- Nome Completo: deve ser composto por pelo menos duas palavras.
+- Telefone: tem que ter no mínimo 8 números e no máximo 10 números.
+- Cartão de Crédito: tem que ter 16 números.
+- CPF: tem que ter 11 números.
 
 **Output**
 >Desafio 1:
 
 >Validado: Nome Completo, Cartão de Crédito
 
->Não Validado: Telefone
+>Não Validado: Telefone, CPF
 
 
 ## Desafio 2
 - Formatar para que cada parte do **nome completo** tenha somente a primeira letra maiúscula
 - Formatar o **telefone** para o padrão (61) 0000-0000
 - Formatar o **cartão de crédito** para o padrão 0000-0000-0000-0000
+- Formatar o **CPF** para o padrão 000.000.000-00
 
 **Output**:
 >Desafio 2:
@@ -35,10 +35,12 @@ Verificar se os dados informados no formulário estão de acordo com as regras d
 
 >Cartão de Crédito: 0000-0000-0000-0000
 
+>CPF: 000.000.000-00
+
 ## Desafio 3
 - Validar se o **email** informado está em um padrão válido
 - Verificar se o **cartão de crédito** ainda é válido ou se já está vencido
-- Verificar se o **CPF** é válido
+- Verificar se o **CPF** está em um padrão válido
 
 **Output**:
 >Desafio 3:
