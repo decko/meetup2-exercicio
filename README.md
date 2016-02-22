@@ -18,12 +18,9 @@ Escreva um programa para no arquivo 'validacao.js' verificar se os dados informa
 
 
 ## Tarefa Extra
-**- Nome Completo**: cada parte do nome deve ter somente a primeira letra maiúscula
+**- Nome Completo**: formatar para que cada parte do nome tenha somente a primeira letra maiúscula
 
-**- Telefone**: remover, se exisir:
-  * espaço em branco
-  * ( ou )
-  * -
+**- Telefone**: formatar para: (61) 0000-0000
   
 **- Cartão de Crédito**: verificar se a data de validade do cartão ainda está vigente
 
@@ -31,7 +28,7 @@ Escreva um programa para no arquivo 'validacao.js' verificar se os dados informa
 
 >Nome Completo: João Pereira
 
->Telefone: 99999999
+>Telefone: 9999-9999
 
 >Cartão de Crédito válido ou Cartão de crédito vencido
 
